@@ -14,6 +14,6 @@ My true joy lies in training both technical and non-technical users, while also 
 
 One of the projects that kickstarted my professional journey and shaped my expertise is Data Segmentation, a field I am deeply passionate about. I leverage this skill every day to drive successful business and data projects.
 
-I have a genuine love for discussing and presenting on topics related to data. To date, I have had the privilege of delivering guest lectures at Iowa State University on Organizational Behavior, Project Management, Data Segmentation, Data Migration, and Agile Methodology. I have also been featured as a podcast guest on Alma Matters.- 
+I have a genuine love for discussing and presenting on topics related to data. To date, I have had the privilege of delivering guest lectures at Iowa State University on Organizational Behavior, Project Management, Data Segmentation, Data Migration, and Agile Methodology. I have also been featured as a podcast guest on Alma Matters. 
 
-- Tushar Sharma
+                                                                                                    - Tushar Sharma
