@@ -16,5 +16,5 @@ One of the projects that kickstarted my professional journey and shaped my exper
 
 I have a genuine love for discussing and presenting on topics related to data. To date, I have had the privilege of delivering guest lectures at Iowa State University on Organizational Behavior, Project Management, Data Segmentation, Data Migration, and Agile Methodology. I have also been featured as a podcast guest on Alma Matters.
 
-**✨**
-- Tushar Sharma
+                                            **✨**
+                                       - Tushar Sharma
