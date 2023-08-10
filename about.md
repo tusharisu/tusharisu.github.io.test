@@ -1,18 +1,22 @@
 ---
-title: Colophon
+title: Tushar Sharma
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt:
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+About
+I make the data talk… or vice versa! 
 
-If you have a question about him or else, just send a letter to him.
+I am a detail-oriented, responsible, and dedicated data professional with a "get-it-done" attitude and a passion for delivering high-quality results. My problem-solving skills are paired with a customer-centric approach, empowering organizations to innovate and make data-driven decisions. I excel in working within agile/scrum project management frameworks, enabling teams to deliver value to their customers with efficiency.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+My true joy lies in training both technical and non-technical users, while also crafting efficient and modern database solutions. My focus extends beyond just accuracy and precision; I actively seek opportunities for automation.
 
-**may u needs ✨**
+One of the projects that kickstarted my professional journey and shaped my expertise is Data Segmentation, a field I am deeply passionate about. I leverage this skill every day to drive successful business and data projects.
 
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+I have a genuine love for discussing and presenting on topics related to data. To date, I have had the privilege of delivering guest lectures at Iowa State University on Organizational Behavior, Project Management, Data Segmentation, Data Migration, and Agile Methodology. I have also been featured as a podcast guest on Alma Matters.
+
+**✨**
+
+- tusharsharma96@outlook.com
