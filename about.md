@@ -1,12 +1,11 @@
 ---
-title: Tushar Sharma
+title: About Me
 permalink: /about/
 layout: page
 excerpt:
 comments: false
 ---
 
-About
 I make the data talk… or vice versa! 
 
 I am a detail-oriented, responsible, and dedicated data professional with a "get-it-done" attitude and a passion for delivering high-quality results. My problem-solving skills are paired with a customer-centric approach, empowering organizations to innovate and make data-driven decisions. I excel in working within agile/scrum project management frameworks, enabling teams to deliver value to their customers with efficiency.
@@ -18,5 +17,4 @@ One of the projects that kickstarted my professional journey and shaped my exper
 I have a genuine love for discussing and presenting on topics related to data. To date, I have had the privilege of delivering guest lectures at Iowa State University on Organizational Behavior, Project Management, Data Segmentation, Data Migration, and Agile Methodology. I have also been featured as a podcast guest on Alma Matters.
 
 **✨**
-
-- tusharsharma96@outlook.com
+- Tushar Sharma
